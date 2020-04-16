@@ -1,3 +1,4 @@
 # hello-world
 Cheryl's learning something new!
-[id='chapter-id']What's New!
+
+This is the time for all great men to rise up and fight!
